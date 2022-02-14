@@ -1,0 +1,17 @@
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.exe
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.deps.json
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.runtimeconfig.json
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.dll
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\ref\StockAccountManagement.dll
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.pdb
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.csproj.AssemblyReference.cache
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.AssemblyInfoInputs.cache
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.AssemblyInfo.cs
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.csproj.CopyComplete
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.dll
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\ref\StockAccountManagement.dll
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.pdb
+C:\Users\sanjay\source\repos\StockAccountManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.genruntimeconfig.cache
